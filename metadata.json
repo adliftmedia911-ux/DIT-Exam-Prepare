@@ -1,0 +1,6 @@
+{
+  "name": "DIT Smart Exam System – Superior College",
+  "description": "Professional online examination and assessment management system for Superior College DIT students, featuring 75-mark papers with MCQs, MS Word answer-sheet workflows, and instant result calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
